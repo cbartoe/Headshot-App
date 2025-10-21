@@ -42,7 +42,7 @@ A web application that transforms user-uploaded photos into professional headsho
 ### Frontend
 - **Framework**: React 18+
 - **Build Tool**: Vite
-- **Styling**: Tailwind CSS
+- **Styling**: Tailwind CSS v3
 - **HTTP Client**: Axios
 - **State Management**: React Context API / useState
 - **UI Components**:
